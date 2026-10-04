@@ -1,0 +1,5 @@
+hashmap
+hashmap_*
+*.o
+*.aof
+.vscode/
